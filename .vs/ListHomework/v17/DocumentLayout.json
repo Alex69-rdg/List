@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E5FBEF95-A2E8-46A3-87DF-889BF5A4D90F}|Sum\\Sum.csproj|c:\\users\\admin\\onedrive\\desktop\\alex9a\\listhomework\\sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5FBEF95-A2E8-46A3-87DF-889BF5A4D90F}|Sum\\Sum.csproj|solutionrelative:sum\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5FBB854F-20F6-4FBB-898A-5664353CCA4B}|ListKrainosti\\ListKrainosti.csproj|c:\\users\\admin\\onedrive\\desktop\\alex9a\\listhomework\\listkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5FBB854F-20F6-4FBB-898A-5664353CCA4B}|ListKrainosti\\ListKrainosti.csproj|solutionrelative:listkrainosti\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8C038425-5367-4B8D-A4EE-78F70B1F1FF3}|ListEvenNumbers\\ListEvenNumbers.csproj|c:\\users\\admin\\onedrive\\desktop\\alex9a\\listhomework\\listevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8C038425-5367-4B8D-A4EE-78F70B1F1FF3}|ListEvenNumbers\\ListEvenNumbers.csproj|solutionrelative:listevennumbers\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1BDCD70F-0B26-4067-AEB9-4B34548D684E}|EnterListFromConsole\\EnterListFromConsole.csproj|c:\\users\\admin\\onedrive\\desktop\\alex9a\\listhomework\\enterlistfromconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1BDCD70F-0B26-4067-AEB9-4B34548D684E}|EnterListFromConsole\\EnterListFromConsole.csproj|solutionrelative:enterlistfromconsole\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\Sum\\Program.cs",
+              "RelativeDocumentMoniker": "Sum\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\Sum\\Program.cs",
+              "RelativeToolTip": "Sum\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB4AAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T21:12:17.143Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\ListKrainosti\\Program.cs",
+              "RelativeDocumentMoniker": "ListKrainosti\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\ListKrainosti\\Program.cs",
+              "RelativeToolTip": "ListKrainosti\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAuwB0AAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:32:27.116Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\ListEvenNumbers\\Program.cs",
+              "RelativeDocumentMoniker": "ListEvenNumbers\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\ListEvenNumbers\\Program.cs",
+              "RelativeToolTip": "ListEvenNumbers\\Program.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAwAwAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:26:32.321Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\EnterListFromConsole\\Program.cs",
+              "RelativeDocumentMoniker": "EnterListFromConsole\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\OneDrive\\Desktop\\Alex9a\\ListHomework\\EnterListFromConsole\\Program.cs",
+              "RelativeToolTip": "EnterListFromConsole\\Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-26T20:18:43.796Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

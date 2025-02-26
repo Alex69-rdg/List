@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\bin\Debug\net8.0\ListEvenNumbers.exe
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\bin\Debug\net8.0\ListEvenNumbers.deps.json
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\bin\Debug\net8.0\ListEvenNumbers.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\bin\Debug\net8.0\ListEvenNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\bin\Debug\net8.0\ListEvenNumbers.pdb
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\refint\ListEvenNumbers.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.pdb
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ListEvenNumbers.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\ListEvenNumbers\obj\Debug\net8.0\ref\ListEvenNumbers.dll

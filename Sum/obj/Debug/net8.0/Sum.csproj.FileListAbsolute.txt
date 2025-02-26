@@ -1,0 +1,14 @@
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\bin\Debug\net8.0\Sum.exe
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\bin\Debug\net8.0\Sum.deps.json
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\bin\Debug\net8.0\Sum.runtimeconfig.json
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\bin\Debug\net8.0\Sum.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\bin\Debug\net8.0\Sum.pdb
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.AssemblyInfoInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.AssemblyInfo.cs
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.csproj.CoreCompileInputs.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\refint\Sum.dll
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.pdb
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\Sum.genruntimeconfig.cache
+C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\Sum\obj\Debug\net8.0\ref\Sum.dll
