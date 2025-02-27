@@ -12,3 +12,18 @@ C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\EnterListFromConsole\obj\Deb
 C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.pdb
 C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.genruntimeconfig.cache
 C:\Users\Admin\OneDrive\Desktop\Alex9a\ListHomework\EnterListFromConsole\obj\Debug\net8.0\ref\EnterListFromConsole.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\bin\Debug\net8.0\EnterListFromConsole.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\bin\Debug\net8.0\EnterListFromConsole.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\bin\Debug\net8.0\EnterListFromConsole.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\bin\Debug\net8.0\EnterListFromConsole.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\bin\Debug\net8.0\EnterListFromConsole.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\refint\EnterListFromConsole.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\EnterListFromConsole.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\EnterListFromConsole\obj\Debug\net8.0\ref\EnterListFromConsole.dll

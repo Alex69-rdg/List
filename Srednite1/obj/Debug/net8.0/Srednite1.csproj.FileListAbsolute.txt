@@ -1,0 +1,15 @@
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\bin\Debug\net8.0\Srednite1.exe
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\bin\Debug\net8.0\Srednite1.deps.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\bin\Debug\net8.0\Srednite1.runtimeconfig.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\bin\Debug\net8.0\Srednite1.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\bin\Debug\net8.0\Srednite1.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.AssemblyInfoInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.AssemblyInfo.cs
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.csproj.CoreCompileInputs.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.sourcelink.json
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\refint\Srednite1.dll
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.pdb
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\Srednite1.genruntimeconfig.cache
+C:\Users\STUDENTS-1212-14\Desktop\Alex 9A\List\Srednite1\obj\Debug\net8.0\ref\Srednite1.dll

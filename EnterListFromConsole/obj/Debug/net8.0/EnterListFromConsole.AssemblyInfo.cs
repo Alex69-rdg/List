@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EnterListFromConsole")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aab97ac8ed49828e43d685541f17d511581afc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("EnterListFromConsole")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EnterListFromConsole")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

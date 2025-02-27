@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Sum")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8aab97ac8ed49828e43d685541f17d511581afc4")]
 [assembly: System.Reflection.AssemblyProductAttribute("Sum")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Sum")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
